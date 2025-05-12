@@ -1,7 +1,7 @@
-# PEC3 - Manovich Reloaded
+# PEC3 - Manovich Reloaded: Wii Sports y Motor Source
 
 ## Autor/a
-[Tu nombre completo]  
+Samuel Carrasco
 Asignatura: Cultura Digital – UOC  
 Fecha: Mayo de 2025
 
